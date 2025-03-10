@@ -1,0 +1,10 @@
+Wireshark Analysis: Comparing Traffic on Port 80 vs. Port 443
+
+Overview
+
+This project involves analyzing network traffic on Port 80 (HTTP) vs. Port 443 (HTTPS) using Wireshark, a powerful network protocol analyzer. The goal is to observe the differences in data transmission security, packet structure, and potential vulnerabilities when using unencrypted vs. encrypted web communication.
+
+Tools Used
+- Wireshark – Packet capture and analysis
+- Web Browser – To generate traffic for analysis
+- Command Line (Optional) – curl or wget for controlled requests
